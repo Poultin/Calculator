@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\bin\Debug\my_First_Projectt.exe.config
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\bin\Debug\my_First_Projectt.exe
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\bin\Debug\my_First_Projectt.pdb
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.Properties.Resources.resources
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.exe
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.pdb
+C:\Users\PC\source\repos\my_First_Projectt\my_First_Projectt\obj\Debug\my_First_Projectt.Form1.resources
